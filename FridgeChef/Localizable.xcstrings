@@ -1,0 +1,727 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "American" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Amerikan" } } }
+    },
+    "Chinese" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Çin" } } }
+    },
+    "Georgian" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Gürcü" } } }
+    },
+    "Kazakh" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Kazak" } } }
+    },
+    "Korean" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Kore" } } }
+    },
+    "No preference" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Fark etmez" } } }
+    },
+    "Spanish" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "İspanyol" } } }
+    },
+    "French" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Fransız" } } }
+    },
+    "Greek" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Yunan" } } }
+    },
+    "Indian" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Hint" } } }
+    },
+    "Italian" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "İtalyan" } } }
+    },
+    "Japanese" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Japon" } } }
+    },
+    "Mexican" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Meksika" } } }
+    },
+    "Next" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "İleri" } } }
+    },
+    "Set your food preferences" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Yemek tercihlerini ayarla" } } }
+    },
+    "Thai" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Tayland" } } }
+    },
+    "Turkish" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Türk" } } }
+    },
+    "Which food do you prefer?" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Hangi mutfağı seversin?" } } }
+    },
+    "Choose a login method to continue and discover delicious recipes." : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Devam etmek ve lezzetli tarifleri keşfetmek için bir giriş yöntemi seç." } } }
+    },
+    "Go to login" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Girişe git" } } }
+    },
+    "Password Successfully Changed" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Şifre Başarıyla Değişti" } } }
+    },
+    "Start Your Exciting Cooking Journey Today" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Heyecanlı Mutfak Yolculuğuna Bugün Başla" } } }
+    },
+    "Your password has been updated. You can now log in with your new password." : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Şifren güncellendi. Artık yeni şifrenle giriş yapabilirsin." } } }
+    },
+    "Enter the code" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Kodu gir" } } }
+    },
+    "Enter the 6-digit code sent to your phone" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Telefonuna gönderilen 6 haneli kodu gir" } } }
+    },
+    "Enter your phone number" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Telefon numaranı gir" } } }
+    },
+    "Phone" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Telefon" } } }
+    },
+    "Send code" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Kod gönder" } } }
+    },
+    "Verify" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Doğrula" } } }
+    },
+    "We'll send you a 6-digit code" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Sana 6 haneli bir kod göndereceğiz" } } }
+    },
+    "At least 8 characters" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "En az 8 karakter" } } }
+    },
+    "Change password" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Şifre değiştir" } } }
+    },
+    "Contains a number or symbol" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Bir rakam veya sembol içerir" } } }
+    },
+    "New password" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Yeni şifre" } } }
+    },
+    "Passwords match" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Şifreler eşleşiyor" } } }
+    },
+    "Repeat password" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Şifreyi tekrarla" } } }
+    },
+    "Repeat your password" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Şifreni tekrar gir" } } }
+    },
+    "Set a new password for your account" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Hesabın için yeni şifre belirle" } } }
+    },
+    "Sign out" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Çıkış yap" } } }
+    },
+    "Back to Sign in" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Girişe dön" } } }
+    },
+    "Check your email" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "E-postanı kontrol et" } } }
+    },
+    "Check your spam folder if you don't see it." : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Görmüyorsan spam klasörüne bak." } } }
+    },
+    "Enter your email address to reset your password" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Şifreni sıfırlamak için e-posta adresini gir" } } }
+    },
+    "Forgot password" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Şifremi unuttum" } } }
+    },
+    "We've sent password reset instructions to your email." : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Şifre sıfırlama talimatlarını e-postana gönderdik." } } }
+    },
+    "Address" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Adres" } } }
+    },
+    "Complete profile" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Profili tamamla" } } }
+    },
+    "Date of birth" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Doğum tarihi" } } }
+    },
+    "Enter your address" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Adresini gir" } } }
+    },
+    "Enter your full name" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Ad soyad gir" } } }
+    },
+    "Female" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Kadın" } } }
+    },
+    "Full name" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Ad Soyad" } } }
+    },
+    "Gender" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Cinsiyet" } } }
+    },
+    "Male" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Erkek" } } }
+    },
+    "Other" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Diğer" } } }
+    },
+    "Phone number" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Telefon numarası" } } }
+    },
+    "Select gender" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Cinsiyet seç" } } }
+    },
+    "Tell us a bit about yourself" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Kendinden biraz bahset" } } }
+    },
+    "Your Profile" : {
+      "localizations" : { "tr" : { "stringUnit" : { "state" : "translated", "value" : "Profilin" } } }
+    },
+    " and " : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " ve "
+          }
+        }
+      }
+    },
+    "." : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "'nı kabul edersin."
+          }
+        }
+      }
+    },
+    "Add an ingredient (e.g. tomato)" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malzeme yaz (örn: domates)"
+          }
+        }
+      }
+    },
+    "Add the ingredients in your fridge and we'll find recipes for you." : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buzdolabındaki malzemeleri ekle, sana tarif bulalım."
+          }
+        }
+      }
+    },
+    "Add the ingredients in your fridge and we'll find recipes just for you. Let your kitchen adventure begin!" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buzdolabındaki malzemeleri yaz, sana özel tarifler bulalım. Mutfak maceran başlasın!"
+          }
+        }
+      }
+    },
+    "AI Finds Recipes" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yapay Zekâ Tarif Bulur"
+          }
+        }
+      }
+    },
+    "Already have an account?" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaten hesabın var mı?"
+          }
+        }
+      }
+    },
+    "By continuing you agree to our " : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Devam ederek "
+          }
+        }
+      }
+    },
+    "By signing up you agree to our " : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaydolarak "
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Devam"
+          }
+        }
+      }
+    },
+    "Continue with Apple" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple ile Devam Et"
+          }
+        }
+      }
+    },
+    "Continue with Google" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Google ile Devam Et"
+          }
+        }
+      }
+    },
+    "Continue with Phone" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telefon ile Devam Et"
+          }
+        }
+      }
+    },
+    "Create your account" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hesabını oluştur"
+          }
+        }
+      }
+    },
+    "Don't have an account?" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hesabın yok mu?"
+          }
+        }
+      }
+    },
+    "Email" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-posta"
+          }
+        }
+      }
+    },
+    "Enter your email" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-postanı gir"
+          }
+        }
+      }
+    },
+    "Enter your ingredients and let AI suggest recipes you can make in seconds." : {
+      "comment" : "Description of a recipe suggestion feature in the onboarding flow.",
+      "isCommentAutoGenerated" : true
+    },
+    "Enter your name" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adını gir"
+          }
+        }
+      }
+    },
+    "Enter your password" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şifreni gir"
+          }
+        }
+      }
+    },
+    "Error" : {
+      "comment" : "A title for an alert that displays an error message.",
+      "isCommentAutoGenerated" : true
+    },
+    "Find Recipes" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarif Bul"
+          }
+        }
+      }
+    },
+    "Forgot password?" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şifremi unuttum?"
+          }
+        }
+      }
+    },
+    "FridgeChef" : {
+      "comment" : "The name of the app.",
+      "isCommentAutoGenerated" : true
+    },
+    "Get Started" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Başla"
+          }
+        }
+      }
+    },
+    "Hi! 👋" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selam! 👋"
+          }
+        }
+      }
+    },
+    "I Eat Everything" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her Şey Yerim"
+          }
+        }
+      }
+    },
+    "Name" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ad"
+          }
+        }
+      }
+    },
+    "No ingredients yet" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Henüz malzeme yok"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "comment" : "A button that dismisses an alert.",
+      "isCommentAutoGenerated" : true
+    },
+    "or" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ya da"
+          }
+        }
+      }
+    },
+    "or sign in with" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ya da şununla gir"
+          }
+        }
+      }
+    },
+    "or sign up with" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ya da şununla kaydol"
+          }
+        }
+      }
+    },
+    "Password" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şifre"
+          }
+        }
+      }
+    },
+    "Personalized recipes from the ingredients in your fridge. Let's cook!" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buzdolabındaki malzemelerden sana özel tarifler. Hadi mutfağa!"
+          }
+        }
+      }
+    },
+    "Privacy Policy" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gizlilik Politikası"
+          }
+        }
+      }
+    },
+    "Remember me" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beni hatırla"
+          }
+        }
+      }
+    },
+    "Save the recipes you love and build your own personal recipe collection." : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beğendiğin tarifleri kaydet, kendi kişisel tarif koleksiyonunu oluştur."
+          }
+        }
+      }
+    },
+    "Save Your Favorites" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorilerini Kaydet"
+          }
+        }
+      }
+    },
+    "Sign in" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giriş Yap"
+          }
+        }
+      }
+    },
+    "Sign in with Email" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-posta ile Giriş Yap"
+          }
+        }
+      }
+    },
+    "Sign up" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaydol"
+          }
+        }
+      }
+    },
+    "Sign up to start cooking with what's in your fridge!" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buzdolabındakilerle yemek yapmaya başlamak için kaydol!"
+          }
+        }
+      }
+    },
+    "Sign up with Apple" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple ile Kaydol"
+          }
+        }
+      }
+    },
+    "Skip for now" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şimdilik Atla"
+          }
+        }
+      }
+    },
+    "Terms of Use" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kullanım Koşulları"
+          }
+        }
+      }
+    },
+    "Vegan" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vegan"
+          }
+        }
+      }
+    },
+    "Vegetarian" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vejetaryen"
+          }
+        }
+      }
+    },
+    "We'll suggest all kinds of recipes — meat and veggie" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hem etli hem sebzeli, her türlü tarifi öneririz"
+          }
+        }
+      }
+    },
+    "We'll suggest delicious veggie-focused recipes" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sana lezzetli sebze ağırlıklı tarifler öneririz"
+          }
+        }
+      }
+    },
+    "We'll suggest recipes with no animal products" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiç hayvansal ürün içermeyen tarifler öneririz"
+          }
+        }
+      }
+    },
+    "We're thrilled to have you back. Let's dive in and find delicious recipes for you!" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seni geri görmek harika! Hadi sana lezzetli tarifler bulalım!"
+          }
+        }
+      }
+    },
+    "Welcome to FridgeChef" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FridgeChef'e Hoş Geldin"
+          }
+        }
+      }
+    },
+    "Welcome to FridgeChef!" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FridgeChef'e Hoş Geldin!"
+          }
+        }
+      }
+    },
+    "What do you like to eat?" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne yemeyi seversin?"
+          }
+        }
+      }
+    },
+    "Your fridge, your chef" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buzdolabın senin şefin"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}

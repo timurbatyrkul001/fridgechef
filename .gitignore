@@ -1,0 +1,29 @@
+# --- Sırlar: ASLA git'e girmemeli ---
+FridgeChef/Secrets.plist
+
+# --- Xcode ---
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+DerivedData/
+build/
+*.moved-aside
+
+# --- macOS ---
+.DS_Store
+
+# --- Swift Package Manager ---
+.swiftpm/
+.build/
+Packages/
+
+# --- CocoaPods / Carthage (ileride kullanılırsa) ---
+Pods/
+Carthage/Build/
+
+# Gizli anahtarlar — push edilmez
+Secrets.plist
+FridgeChef/Secrets.plist
+GoogleService-Info.plist
+FridgeChef/GoogleService-Info.plist
